@@ -79,5 +79,3 @@ pothole-bot/
 - Gemini API key required for validation.
 - Ensure the CSV file for ward mapping is present in the `pothole-bot` folder.
 
-## License
-MIT
